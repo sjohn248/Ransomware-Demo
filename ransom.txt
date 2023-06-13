@@ -1,4 +1,0 @@
-You have been hacked. ALL of your files have been encrypted and you have lost access to all your precious data. To unlock your data, follow the steps below:
-1. Pay us bitcoin at our bitcoin address
-2. Send us the contents of your id.id file
-3. DO NOT EDIT THE ENCRYPTED FILES OR THE ID.ID FILES OR YOUR DATA WILL BE PERMANENTLY LOST
