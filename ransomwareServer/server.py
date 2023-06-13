@@ -15,7 +15,6 @@ certificate = "cert.crt"
 
 def newClient(client_socket, addr):
     while True:
-        #clientID = client_socket.recv(BUFFER_SIZE).decode('ISO-8859-1')
         clientID = client_socket.recv(BUFFER_SIZE)
         clientID = uuid.UUID(bytes=clientID)
         clientID = str(clientID)
